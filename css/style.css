@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: #FFFFFF;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.quem-somos {
+    background-color: #A1B8B4;
+    color: black;
+}
+
+.quem-somos p {
+    padding-top: 50px;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.parceiros {
+    background-color: #D1DFDD;
+}
+
+.servicos {
+    background-color: #DEE7E8;
+}
+
+.bg-footer {
+    background-color: #756E6F;
+    color: white;
+    font-size: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    align-items: center;
+}
